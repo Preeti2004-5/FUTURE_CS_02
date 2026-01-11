@@ -1,0 +1,55 @@
+Email Sample 1: Job Listings 4U
+
+Subject:
+Looking for a SOC analyst job?
+
+Sender:
+info@joblistings4u.com
+
+Folder:
+Spam
+
+Observations:
+- Found in spam folder
+- Generic subject line
+- Unknown sender domain
+- Looks like mass job advertisement
+
+Suspicious Signs:
+- Not from official company domain
+- No personalization
+- Promises jobs easily
+- Looks like bulk mail
+
+Conclusion:
+This email is likely phishing or spam.
+Risk Level: High
+
+
+Email Sample 2: Samsung Electronics India
+
+Subject:
+Be the first to discover latest innovations from Samsung
+
+Sender:
+samsung@in.email.samsung.com
+
+Folder:
+Inbox
+
+Observations:
+- Came to inbox, not spam
+- Known brand name (Samsung)
+- Professional design and logo
+- Has unsubscribe option
+- No urgent or threatening message
+
+Legitimate Signs:
+- Official-looking domain
+- Branding and formatting is professional
+- No demand for personal details
+- No urgent “act now or lose account” message
+
+Conclusion:
+This email is likely legitimate marketing email.
+Risk Level: Low
