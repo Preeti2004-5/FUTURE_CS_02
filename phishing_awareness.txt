@@ -1,0 +1,36 @@
+Phishing Awareness & Prevention Guide
+
+What is Phishing?
+Phishing is a cyber attack where attackers send fake emails or messages to trick people into giving passwords, OTPs, or money.
+
+Common Phishing Signs:
+- Urgent messages like “Act now” or “Account will be blocked”
+- Unknown or fake email domains
+- Poor grammar or spelling
+- Links that look suspicious
+- Requests for OTP, password, or bank details
+
+How to Stay Safe:
+
+1. Check Sender Carefully
+- Look at full email address, not just name
+- Be careful of fake domains
+
+2. Do Not Click Unknown Links
+- Hover over links to see real address
+- Avoid clicking links in urgent emails
+
+3. Never Share OTP or Password
+- No company asks for OTP or password by email
+
+4. Verify Before Acting
+- Call or visit official website directly
+
+5. Use Spam Filters
+- Do not open emails from spam folder
+
+6. Report Phishing
+- Mark email as spam or phishing
+
+Conclusion:
+Being careful and checking emails properly can prevent most phishing attacks.
